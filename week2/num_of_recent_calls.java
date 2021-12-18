@@ -9,7 +9,7 @@ class RecentCounter {
         calls.add(t);
         counter = 0;
         int org_size = calls.size();
-        for(int i = 0; i < a; i++){
+        for(int i = 0; i < org_size; i++){
             if(calls.peek() < (t-3000)){
                     calls.poll();
                 }
