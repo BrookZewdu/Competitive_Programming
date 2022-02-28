@@ -47,10 +47,4 @@ It is impossible to go beyond building 4 because you do not have any more bricks
 * `0 <= bricks <= 10<sup>9</sup>`
 * `0 <= ladders <= heights.length`
 
-Accepted
-
-* `44,055`
-
-Submissions
-
-98,145
+Accepted  `44,055` Submissions `98,145`
