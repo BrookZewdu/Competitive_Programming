@@ -49,7 +49,7 @@ It is impossible to go beyond building 4 because you do not have any more bricks
 
 Accepted
 
-44,055
+* `44,055`
 
 Submissions
 
