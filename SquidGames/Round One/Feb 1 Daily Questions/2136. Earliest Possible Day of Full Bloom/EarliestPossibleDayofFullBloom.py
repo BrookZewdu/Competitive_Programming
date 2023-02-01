@@ -5,7 +5,7 @@ class Solution:
         idx.sort(key = lambda x : -1 * (growTime[x]))
         day = 0
         ans = 0
-        print(idx)
+
         for i in range(n):
             day += plantTime[idx[i]]
             ans = max(ans, day + growTime[idx[i]])
